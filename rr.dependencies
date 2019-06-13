@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "aswin7469/device_xiaomi_msm8937-common",
+    "target_path": "device/xiaomi/msm8937-common",
+    "branch": "rr"
+  },
+  {
+    "remote": "github",
+    "repository": "aswin7469/vendor_xiaomi_santoni",
+    "target_path": "vendor/xiaomi",
+    "branch": "rr"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  },
+  { 
+    "remote": "github", 
+    "repository": "Quantisers/project_kernel_WolfKernel", 
+    "target_path": "kernel/xiaomi/msm8937",
+    "branch": "non-treble"
+  }
+]
